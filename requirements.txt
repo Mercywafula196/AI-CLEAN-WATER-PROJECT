@@ -1,0 +1,14 @@
+# Core AI and Data Libraries
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.0
+joblib==1.4.2
+
+# Web App Framework
+streamlit==1.39.0
+
+# Testing
+pytest==8.3.3
+
+# Optional (for running in Jupyter/Colab)
+notebook
